@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reetsethi, a beginner at everything lol
-- 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning frontend and looking forward to make some basic projects
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @reetsethi, an aspiring data scientist
+- 👀 I’m pretty good at analyzing and visualizing things and playing with data is always fun unless data plays with you.
+- 🌱 I’m currently learning power BI, and making projects in python for enhancing my machine learning skills.
+- 💞️ Always open for work together
 - 📫 How to reach me , you can email me at reetsethi18@gmail.com, You are always welcome to have a dicussion on new things.
 
 <!---
